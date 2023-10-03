@@ -1,0 +1,3625 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.container .navbar {
+    width: 100%;
+    height: 108px;
+    flex-shrink: 0;
+    background: #FDFDFF;
+    border: 1px solid #00000000;
+    position: relative;
+    margin: 0 auto;
+}
+
+.container .navbar .boxicon {
+    width: 64px;
+    height: 68px;
+    flex-shrink: 0;
+    fill: #163152;
+    position: absolute;
+    top: 20px;
+    right: 1200px;
+    bottom: 20px;
+    left: 160px;
+}
+
+.container .navbar .boxash {
+    position: relative;
+}
+
+.container .navbar .boxash .box1 {
+    width: 593px;
+    height: 18px;
+    border: 1px solid #00000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    position: absolute;
+    top: 45px;
+    right: 175px;
+    bottom: 45px;
+    left: 670px;
+}
+
+.container .navbar .boxash .box1 p {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0.42px;
+    text-transform: uppercase;
+}
+
+.container .navbar .box2 {
+    position: relative;
+}
+
+.container .navbar .box2 .danash {
+    width: 35.999px;
+    height: 36px;
+    flex-shrink: 0;
+    fill: #163152;
+    position: absolute;
+    top: 36px;
+    right: 0px;
+    bottom: 36px;
+    left: 1320px;
+}
+
+.container .qism2 {
+    width: 100%;
+    height: 6162px;
+    background: #FDFDFF;
+    margin: 0 auto;
+}
+
+.container .qism2 .content {
+    position: relative;
+}
+
+.container .qism2 .content .box3 {
+    width: 327px;
+    height: 60px;
+    position: absolute;
+    top: 39px;
+    right: 840px;
+    bottom: 5955px;
+    left: 270px;
+}
+
+.container .qism2 .content .box3 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 44px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 60px;
+    /* 136.364% */
+    letter-spacing: 1.32px;
+}
+
+.container .qism2 .content .boxkino {
+    position: relative;
+}
+
+.container .qism2 .content .boxkino .kino {
+    width: 1070px;
+    height: 426px;
+    flex-shrink: 0;
+    background-image: url("./kino.jpg");
+    background-size: 1070px 426px;
+    position: absolute;
+    top: 109px;
+    right: 198px;
+    bottom: 5519px;
+    left: 160px;
+}
+
+.container .qism2 .content .boxkino .kino .danashbox {
+    width: 164px;
+    height: 60px;
+    position: absolute;
+    top: 10px;
+    right: 806px;
+    bottom: 356px;
+    left: 100px;
+}
+
+.container .qism2 .content .boxkino .kino .danashbox .danash {
+    color: #FDFDFF;
+    font-family: Noto Sans;
+    font-size: 44px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 60px;
+    /* 136.364% */
+    letter-spacing: 1.32px;
+}
+
+.container .qism2 .content .boxkino .kino .danashbox1 {
+    width: 101px;
+    height: 14px;
+    position: absolute;
+    top: 374px;
+    right: 876px;
+    bottom: 38px;
+    left: 100px;
+}
+
+.container .qism2 .content .boxkino .kino .danashbox1 .danash1 {
+    color: #FDFDFF;
+    font-family: Noto Sans;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
+    /* 140% */
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+}
+
+.container .qism2 .content .boxkino .kino .danashbox2 {
+    width: 31px;
+    height: 31px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #FDFDFF;
+    position: absolute;
+    top: 366px;
+    right: 830px;
+    bottom: 29px;
+    left: 209px;
+}
+
+.container .qism2 .content .boxkino .kino .danashbox2 .danibox {
+    width: 5px;
+    height: 10px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #FDFDFF;
+    position: absolute;
+    top: 7px;
+    right: 30px;
+    bottom: 13px;
+    left: 12px;
+}
+
+.container .qism2 .content .boxkino .kino .danashbox3 {
+    width: 98px;
+    height: 76px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 350px;
+    right: 98px;
+    left: 874px;
+}
+
+.container .qism2 .content .boxkino .kino .danashbox4 {
+    width: 98px;
+    height: 76px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 350px;
+    left: 972px;
+}
+
+.container .qism2 .content .box5 {
+    width: 79px;
+    height: 18px;
+    position: absolute;
+    top: 192px;
+    right: 98px;
+    bottom: 5783px;
+    left: 1250px;
+    transform: rotate(90deg);
+}
+
+.container .qism2 .content .box5 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+    /* 128.571% */
+    letter-spacing: 0.42px;
+    text-transform: uppercase;
+}
+
+.container .qism2 .content .box6 {
+    width: 80px;
+    height: 18px;
+    position: absolute;
+    top: 301px;
+    right: 98px;
+    bottom: 5673px;
+    left: 1250px;
+    transform: rotate(90deg);
+}
+
+.container .qism2 .content .box6 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+    /* 128.571% */
+    letter-spacing: 0.42px;
+    text-transform: uppercase;
+}
+
+.container .qism2 .content1 {
+    position: relative;
+}
+
+.container .qism2 .content1 .box7 {
+    width: 182px;
+    height: 18px;
+    position: absolute;
+    top: 701px;
+    right: 1018px;
+    bottom: 5335px;
+    left: 200px;
+}
+
+.container .qism2 .content1 .box7 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+    /* 128.571% */
+    letter-spacing: 0.42px;
+    text-transform: uppercase;
+}
+
+.container .qism2 .content1 .box8 {
+    width: 287px;
+    height: 34px;
+    position: absolute;
+    top: 729px;
+    right: 911px;
+    bottom: 5291px;
+    left: 200px;
+}
+
+.container .qism2 .content1 .box8 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px;
+    /* 141.667% */
+}
+
+.container .qism2 .content1 .box9 {
+    width: 130px;
+    height: 2px;
+    background: #00C6BD;
+    position: absolute;
+    top: 778px;
+    right: 1068px;
+    bottom: 5276px;
+    left: 200px;
+}
+
+.container .qism2 .content1 .box10 {
+    width: 287px;
+    height: 72px;
+    position: absolute;
+    top: 798px;
+    right: 911px;
+    bottom: 5184px;
+    left: 200px;
+}
+
+.container .qism2 .content1 .box10 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+
+.container .qism2 .content1 .box11 {
+    width: 58px;
+    height: 58px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #163152;
+    position: absolute;
+    top: 812px;
+    right: 768px;
+    bottom: 5184px;
+    left: 540px;
+}
+
+.container .qism2 .content1 .box11 .danash {
+    width: 12px;
+    height: 24px;
+    transform: rotate(360deg);
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #163152;
+    position: absolute;
+    top: 23px;
+    right: 17px;
+    bottom: 23px;
+    left: 17px;
+}
+
+.container .qism2 .content1 .kino1 {
+    width: 600px;
+    height: 262px;
+    flex-shrink: 0;
+    background-image: url("./kino1.jpg");
+    background-size: 600px 262px;
+    position: absolute;
+    top: 655px;
+    right: 98px;
+    bottom: 5137px;
+    left: 695px;
+}
+
+.container .qism2 .content2 {
+    position: relative;
+}
+
+.container .qism2 .content2 .kino2 {
+    width: 500px;
+    height: 252px;
+    flex-shrink: 0;
+    background-image: url("./kino2.jpg");
+    background-size: 500px 252px;
+    position: absolute;
+    top: 1145px;
+    right: 768px;
+    bottom: 4765px;
+    left: 160px;
+}
+
+.container .qism2 .content2 .box12 {
+    width: 58px;
+    height: 58px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #163152;
+    position: absolute;
+    top: 1297px;
+    right: 640px;
+    bottom: 4807px;
+    left: 760px;
+}
+
+.container .qism2 .content2 .box12 .danash {
+    width: 12px;
+    height: 24px;
+    transform: rotate(360deg);
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #163152;
+    position: absolute;
+    top: 23px;
+    right: 16px;
+    bottom: 23px;
+    left: 18px;
+}
+
+.container .qism2 .content2 .box13 {
+    width: 174px;
+    height: 18px;
+    position: absolute;
+    top: 1186px;
+    right: 168px;
+    bottom: 4958px;
+    left: 1050px;
+}
+
+.container .qism2 .content2 .box13 .danash {
+    color: #163152;
+    text-align: right;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+    /* 128.571% */
+    letter-spacing: 0.42px;
+    text-transform: uppercase;
+}
+
+.container .qism2 .content2 .box14 {
+    width: 229px;
+    height: 34px;
+    position: absolute;
+    top: 1214px;
+    right: 168px;
+    bottom: 4914px;
+    left: 995px;
+}
+
+.container .qism2 .content2 .box14 .danash {
+    color: #163152;
+    text-align: right;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px;
+    /* 141.667% */
+}
+
+.container .qism2 .content2 .box15 {
+    width: 130px;
+    height: 2px;
+    background: #00C6BD;
+    position: absolute;
+    top: 1263px;
+    right: 168px;
+    bottom: 4899px;
+    left: 1095px;
+}
+
+.container .qism2 .content2 .box16 {
+    width: 373px;
+    height: 72px;
+    position: absolute;
+    top: 1283px;
+    right: 168px;
+    bottom: 4807px;
+    left: 855px;
+}
+
+.container .qism2 .content2 .box16 .danash {
+    color: #283C54;
+    text-align: right;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+
+.container .qism2 .content3 {
+    position: relative;
+}
+
+.container .qism2 .content3 .box17 {
+    width: 156px;
+    height: 34px;
+    position: absolute;
+    top: 1517px;
+    right: 605px;
+    bottom: 4611px;
+    left: 670px;
+}
+
+.container .qism2 .content3 .box17 .danash {
+    color: #163152;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px;
+    /* 141.667% */
+}
+
+.container .qism2 .content3 .box18 {
+    width: 140px;
+    height: 2px;
+    background: #00C6BD;
+    position: absolute;
+    top: 1566px;
+    right: 613px;
+    bottom: 4596px;
+    left: 680px;
+}
+
+.container .qism2 .content3 .boxash {
+    position: relative;
+}
+
+.container .qism2 .content3 .boxash .kema {
+    width: 370px;
+    height: 487px;
+    flex-shrink: 0;
+    background: #FDFDFF;
+    box-shadow: 0px 4px 30px 0px rgba(22, 49, 82, 0.12);
+    position: absolute;
+    top: 1606px;
+    right: 898px;
+    bottom: 4069px;
+    left: 160px;
+    border: 1px solid #00000000;
+}
+
+.container .qism2 .content3 .boxash .kema .box19 {
+    width: 189px;
+    height: 27px;
+    position: absolute;
+    top: 30px;
+    right: 90px;
+    bottom: 430px;
+    left: 91px;
+}
+
+.container .qism2 .content3 .boxash .kema .box19 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxash .kema .kinokema {
+    width: 310px;
+    height: 141px;
+    flex-shrink: 0;
+    background-image: url("./kino\ kema.jpg");
+    background-size: 310px 141px;
+    position: absolute;
+    top: 77px;
+    right: 30px;
+    bottom: 269px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash .kema .box20 {
+    width: 310px;
+    height: 48px;
+    position: absolute;
+    top: 233px;
+    right: 30px;
+    bottom: 206px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash .kema .box20 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 171.429% */
+}
+
+.container .qism2 .content3 .boxash .kema .krug1 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 303px;
+    right: 332px;
+    bottom: 176px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash .kema .krug2 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 326px;
+    right: 332px;
+    bottom: 153px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash .kema .krug3 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 349px;
+    right: 332px;
+    bottom: 130px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash .kema .krug4 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 372px;
+    right: 332px;
+    bottom: 107px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash .kema .krug5 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 395px;
+    right: 332px;
+    bottom: 84px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash .kema .box21 {
+    width: 208px;
+    height: 111px;
+    position: absolute;
+    top: 300px;
+    right: 114px;
+    bottom: 80px;
+    left: 48px;
+    border: 1px solid #fff;
+}
+
+.container .qism2 .content3 .boxash .kema .box21 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxash .kema .box21 .danash .box22 {
+    position: absolute;
+    top: 5px;
+}
+
+.container .qism2 .content3 .boxash .kema .box21 .danash .box23 {
+    position: absolute;
+    top: 27px
+}
+
+.container .qism2 .content3 .boxash .kema .box21 .danash .box24 {
+    position: absolute;
+    top: 50px
+}
+
+.container .qism2 .content3 .boxash .kema .box21 .danash .box25 {
+    position: absolute;
+    top: 72px;
+}
+
+.container .qism2 .content3 .boxash .kema .box21 .danash .box26 {
+    position: absolute;
+    top: 95px;
+}
+
+.container .qism2 .content3 .boxash .kema .box27 {
+    width: 51px;
+    height: 25px;
+    position: absolute;
+    top: 432px;
+    right: 289px;
+    bottom: 30px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash .kema .box27 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxash .kema .box28 {
+    width: 109px;
+    height: 25px;
+    position: absolute;
+    top: 432px;
+    right: 30px;
+    bottom: 30px;
+    left: 231px;
+}
+
+.container .qism2 .content3 .boxash .kema .box28 .danash {
+    color: #163152;
+    text-align: right;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxash1 {
+    position: relative;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 {
+    width: 370px;
+    height: 487px;
+    flex-shrink: 0;
+    background: #FDFDFF;
+    box-shadow: 0px 4px 30px 0px rgba(22, 49, 82, 0.12);
+    position: absolute;
+    top: 1606px;
+    right: 160px;
+    bottom: 4069px;
+    left: 985px;
+    border: 1px solid #00000000;
+
+}
+
+
+.container .qism2 .content3 .boxash1 .kema1 .box39 {
+    width: 185px;
+    height: 27px;
+    position: absolute;
+    top: 30px;
+    right: 92px;
+    bottom: 430px;
+    left: 93px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box39 .danash {
+    color: #163152;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .rasm2 {
+    width: 310px;
+    height: 141px;
+    flex-shrink: 0;
+    background-image: url("./rasm2.jpg");
+    background-size: 310px 141px;
+    position: absolute;
+    top: 77px;
+    right: 30px;
+    bottom: 269px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box40 {
+    width: 310px;
+    height: 48px;
+    position: absolute;
+    top: 233px;
+    right: 30px;
+    bottom: 206px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box40 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 171.429% */
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .krug1 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 303px;
+    right: 332px;
+    bottom: 176px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .krug2 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 326px;
+    right: 332px;
+    bottom: 153px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .krug3 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 349px;
+    right: 332px;
+    bottom: 130px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .krug4 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 372px;
+    right: 332px;
+    bottom: 107px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .krug5 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 395px;
+    right: 332px;
+    bottom: 84px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box41 {
+    width: 208px;
+    height: 111px;
+    position: absolute;
+    top: 300px;
+    right: 114px;
+    bottom: 80px;
+    left: 48px;
+    border: 1px solid #00000000;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box41 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box41 .danash .box42 {
+    position: absolute;
+    top: 3px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box41 .danash .box43 {
+    position: absolute;
+    top: 27px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box41 .danash .box44 {
+    position: absolute;
+    top: 48px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box41 .danash .box45 {
+    position: absolute;
+    top: 72px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .box41 .danash .box46 {
+    position: absolute;
+    top: 95px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .prosto {
+    width: 51px;
+    height: 25px;
+    position: absolute;
+    top: 432px;
+    right: 289px;
+    bottom: 30px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .prosto .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .prosto1 {
+    width: 109px;
+    height: 25px;
+    position: absolute;
+    top: 432px;
+    right: 30px;
+    bottom: 30px;
+    left: 231px;
+}
+
+.container .qism2 .content3 .boxash1 .kema1 .prosto1 .danash {
+    color: #163152;
+    text-align: right;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxmiyona {
+    position: relative;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 {
+    width: 370px;
+    height: 487px;
+    flex-shrink: 0;
+    background: #FDFDFF;
+    box-shadow: 0px 4px 30px 0px rgba(22, 49, 82, 0.12);
+    position: absolute;
+    top: 1606px;
+    right: 498px;
+    bottom: 4069px;
+    left: 573px;
+    border: 1px solid #00000000;
+
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box29 {
+    width: 197px;
+    height: 27px;
+    position: absolute;
+    top: 30px;
+    right: 86px;
+    bottom: 430px;
+    left: 87px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box29 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .rasm1 {
+    width: 310px;
+    height: 141px;
+    flex-shrink: 0;
+    background-image: url("./rasm1.jpg");
+    background-size: 310px 141px;
+    position: absolute;
+    top: 77px;
+    right: 30px;
+    bottom: 269px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box30 {
+    width: 310px;
+    height: 48px;
+    position: absolute;
+    top: 233px;
+    right: 30px;
+    bottom: 206px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box30 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 171.429% */
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .krug1 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 303px;
+    right: 332px;
+    bottom: 176px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .krug2 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 326px;
+    right: 332px;
+    bottom: 153px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .krug3 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 349px;
+    right: 332px;
+    bottom: 130px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .krug4 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 372px;
+    right: 332px;
+    bottom: 107px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .krug5 {
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: absolute;
+    top: 395px;
+    right: 332px;
+    bottom: 84px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box31 {
+    width: 254px;
+    height: 111px;
+    position: absolute;
+    top: 300px;
+    right: 68px;
+    bottom: 80px;
+    left: 48px;
+    border: 1px solid #00000000;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box31 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box31 .danash .box32 {
+    position: absolute;
+    top: 5px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box31 .danash .box33 {
+    position: absolute;
+    top: 26px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box31 .danash .box34 {
+    position: absolute;
+    top: 49px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box31 .danash .box35 {
+    position: absolute;
+    top: 73px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box31 .danash .box36 {
+    position: absolute;
+    top: 95px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box37 {
+    width: 51px;
+    height: 25px;
+    position: absolute;
+    top: 432px;
+    right: 289px;
+    bottom: 30px;
+    left: 30px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box37 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+.container .qism2 .content3 .boxmiyona .kema2 .box38 {
+    width: 109px;
+    height: 25px;
+    position: absolute;
+    top: 432px;
+    right: 30px;
+    bottom: 30px;
+    left: 231px;
+}
+
+.container .qism2 .content3 .boxmiyona .kema2 .box38 .danash {
+    color: #163152;
+    text-align: right;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container .qism2 .content3 .box47 {
+    width: 311px;
+    height: 34px;
+    position: absolute;
+    top: 2213px;
+    right: 527px;
+    bottom: 3915px;
+    left: 600px;
+}
+
+.container .qism2 .content3 .box47 .danash {
+    color: #163152;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px;
+    /* 141.667% */
+}
+
+.container .qism2 .content3 .box48 {
+    width: 170px;
+    height: 2px;
+    background: #00C6BD;
+    position: absolute;
+    top: 2262px;
+    right: 596px;
+    bottom: 3900px;
+    left: 670px;
+}
+
+.container .qism2 .content3 .rasm3 {
+    width: 400px;
+    height: 265px;
+    flex-shrink: 0;
+    background-image: url("./rasm3.jpg");
+    background-size: 400px 265px;
+    position: absolute;
+    top: 2349px;
+    right: 798px;
+    bottom: 3548px;
+    left: 230px;
+}
+
+.container .qism2 .content3 .rasm4 {
+    width: 400px;
+    height: 265px;
+    flex-shrink: 0;
+    background-image: url("./rasm4.jpg");
+    background-size: 400px 265px;
+    position: absolute;
+    top: 2349px;
+    right: 180px;
+    bottom: 3548px;
+    left: 890px;
+}
+
+.container .qism2 .content3 .rasm5 {
+    width: 630px;
+    height: 359px;
+    flex-shrink: 0;
+    background: rgba(22, 49, 82, 0.30);
+    box-shadow: 0px 5px 40px 0px rgba(22, 49, 82, 0.15);
+    background-image: url("./rasm5.jpg");
+    background-size: 630px 359px;
+    position: absolute;
+    top: 2302px;
+    right: 368px;
+    bottom: 3501px;
+    left: 440px;
+}
+
+.container .qism2 .content3 .rasm5 .danashplay {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    fill: #FDFDFF;
+    position: absolute;
+    top: 149px;
+    right: 285px;
+    bottom: 150px;
+    left: 285px;
+}
+
+.container .qism2 .content3 .rasm5 .danangesh {
+    width: 16px;
+    height: 24px;
+    flex-shrink: 0;
+    fill: #00C6BD;
+    position: relative;
+    top: 167px;
+    right: 304px;
+    bottom: 168px;
+    left: 310px;
+}
+
+.container .qism2 .content4 {
+    position: relative;
+}
+
+.container .qism2 .content4 .box48 {
+    width: 194px;
+    height: 34px;
+    position: absolute;
+    top: 2780px;
+    right: 1004px;
+    bottom: 3340px;
+    left: 230px;
+}
+
+.container .qism2 .content4 .box48 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px;
+    /* 141.667% */
+}
+
+.container .qism2 .content4 .box49 {
+    width: 130px;
+    height: 2px;
+    background: #00C6BD;
+    position: absolute;
+    top: 2837px;
+    right: 1068px;
+    bottom: 3325px;
+    left: 230px;
+}
+
+.container .qism2 .content4 .box50 {
+    width: 400px;
+    height: 93px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 2857px;
+    right: 768px;
+    bottom: 3212px;
+    left: 230px;
+}
+
+.container .qism2 .content4 .box50 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+
+.container .qism2 .content4 .rasm6 {
+    width: 430px;
+    height: 177px;
+    flex-shrink: 0;
+    background-image: url("./rasm6.jpg");
+    background-size: 430px 177px;
+    position: absolute;
+    top: 2970px;
+    right: 768px;
+    bottom: 3015px;
+    left: 230px;
+}
+
+.container .qism2 .content4 .box51 {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #00C6BD;
+    position: absolute;
+    top: 2781px;
+    right: 608px;
+    bottom: 3321px;
+    left: 728px;
+}
+
+.container .qism2 .content4 .box51 .danash {
+    width: 40px;
+    height: 22px;
+    flex-shrink: 0;
+    fill: #163152;
+    position: absolute;
+    top: 19px;
+    right: 10px;
+    bottom: 19px;
+    left: 10px;
+}
+
+.container .qism2 .content4 .box52 {
+    width: 167px;
+    height: 24px;
+    position: absolute;
+    top: 2861px;
+    right: 501px;
+    bottom: 3277px;
+    left: 728px;
+}
+
+.container .qism2 .content4 .box52 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 133.333% */
+}
+
+.container .qism2 .content4 .box53 {
+    width: 244px;
+    height: 48px;
+    position: absolute;
+    top: 2895px;
+    right: 424px;
+    bottom: 3219px;
+    left: 728px;
+}
+
+.container .qism2 .content4 .box53 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+
+.container .qism2 .content4 .box54 {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #00C6BD;
+    position: absolute;
+    top: 2989px;
+    right: 608px;
+    bottom: 3113px;
+    left: 728px;
+}
+
+.container .qism2 .content4 .box54 .danash {
+    width: 35px;
+    height: 21px;
+    flex-shrink: 0;
+    fill: #163152;
+    stroke-width: 1px;
+    stroke: #163152;
+    position: absolute;
+    top: 19px;
+    right: 13px;
+    bottom: 20px;
+    left: 12px;
+}
+
+.container .qism2 .content4 .box55 {
+    width: 157px;
+    height: 24px;
+    position: absolute;
+    top: 3069px;
+    right: 511px;
+    bottom: 3069px;
+    left: 728px;
+}
+
+.container .qism2 .content4 .box55 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 133.333% */
+}
+
+.container .qism2 .content4 .box56 {
+    width: 244px;
+    height: 48px;
+    position: absolute;
+    top: 3103px;
+    right: 424px;
+    bottom: 3011px;
+    left: 728px;
+}
+
+.container .qism2 .content4 .box56 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+
+.container .qism2 .content4 .box57 {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #00C6BD;
+    position: absolute;
+    top: 2781px;
+    right: 308px;
+    bottom: 3321px;
+    left: 1070px;
+}
+
+.container .qism2 .content4 .box57 .danash {
+    width: 29px;
+    height: 29px;
+    flex-shrink: 0;
+    fill: #163152;
+    position: absolute;
+    top: 15px;
+    right: 16px;
+    bottom: 16px;
+    left: 15px;
+}
+
+.container .qism2 .content4 .box58 {
+    width: 191px;
+    height: 24px;
+    position: absolute;
+    top: 2861px;
+    right: 177px;
+    bottom: 3277px;
+    left: 1070px;
+}
+
+.container .qism2 .content4 .box58 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 133.333% */
+}
+
+.container .qism2 .content4 .box59 {
+    width: 270px;
+    height: 48px;
+    position: absolute;
+    top: 2895px;
+    right: 98px;
+    bottom: 3219px;
+    left: 1070px;
+}
+
+.container .qism2 .content4 .box59 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+
+.container .qism2 .content4 .box60 {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #00C6BD;
+    position: absolute;
+    top: 2989px;
+    right: 308px;
+    bottom: 3113px;
+    left: 1070px;
+}
+
+.container .qism2 .content4 .box60 .danash {
+    width: 34px;
+    height: 29px;
+    flex-shrink: 0;
+    fill: #163152;
+    position: absolute;
+    top: 15px;
+    right: 13px;
+    bottom: 16px;
+    left: 13px;
+}
+
+.container .qism2 .content4 .box61 {
+    width: 152px;
+    height: 24px;
+    position: absolute;
+    top: 3069px;
+    right: 216px;
+    bottom: 3069px;
+    left: 1070px;
+}
+
+.container .qism2 .content4 .box61 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 133.333% */
+}
+
+.container .qism2 .content4 .box62 {
+    width: 270px;
+    height: 48px;
+    position: absolute;
+    top: 3103px;
+    right: 98px;
+    bottom: 3011px;
+    left: 1070px;
+}
+
+.container .qism2 .content4 .box62 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+
+.container .qism2 .content4 .box63 {
+    width: 104px;
+    height: 34px;
+    position: absolute;
+    top: 3271px;
+    right: 631px;
+    bottom: 2857px;
+    left: 700px;
+}
+
+.container .qism2 .content4 .box63 .danash {
+    color: #163152;
+    text-align: right;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px;
+    /* 141.667% */
+}
+
+.container .qism2 .content4 .box64 {
+    width: 110px;
+    height: 2px;
+    background: #00C6BD;
+    position: absolute;
+    top: 3320px;
+    right: 628px;
+    bottom: 2842px;
+    left: 703px;
+}
+
+.container .qism2 .content5 {
+    position: relative;
+}
+
+.container .qism2 .content5 .novosti {
+    width: 770px;
+    height: 685px;
+    flex-shrink: 0;
+    background: #FDFDFF;
+    box-shadow: 0px 4px 30px 0px rgba(22, 49, 82, 0.12);
+    position: absolute;
+    top: 3360px;
+    right: 498px;
+    bottom: 2117px;
+    left: 160px;
+}
+
+.container .qism2 .content5 .novosti .rasm7 {
+    width: 770px;
+    height: 378px;
+    flex-shrink: 0;
+    background-image: url("./rasm7.jpg");
+    background-size: 770px 378px;
+    position: absolute;
+    bottom: 307px;
+}
+
+.container .qism2 .content5 .novosti .box65 {
+    width: 310px;
+    height: 19px;
+    position: absolute;
+    top: 393px;
+    right: 420px;
+    bottom: 273px;
+    left: 40px;
+}
+
+.container .qism2 .content5 .novosti .box65 .danash {
+    color: rgba(40, 60, 84, 0.50);
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content5 .novosti .box66 {
+    width: 430px;
+    height: 30px;
+    position: absolute;
+    top: 432px;
+    right: 300px;
+    bottom: 223px;
+    left: 40px;
+}
+
+.container .qism2 .content5 .novosti .box66 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content5 .novosti .box67 {
+    width: 630px;
+    height: 81px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 474px;
+    right: 100px;
+    bottom: 130px;
+    left: 40px;
+}
+
+.container .qism2 .content5 .novosti .box67 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 144.444% */
+}
+
+.container .qism2 .content5 .novosti .odam {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    background-image: url("./odam.jpg");
+    background-size: 60px 60px;
+    position: absolute;
+    top: 585px;
+    right: 670px;
+    bottom: 40px;
+    left: 40px;
+}
+
+.container .qism2 .content5 .novosti .box68 {
+    width: 153px;
+    height: 22px;
+    position: absolute;
+    top: 590px;
+    right: 502px;
+    bottom: 73px;
+    left: 115px;
+}
+
+.container .qism2 .content5 .novosti .box68 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content5 .novosti .box69 {
+    width: 88px;
+    height: 22px;
+    position: absolute;
+    top: 618px;
+    right: 567px;
+    bottom: 45px;
+    left: 115px;
+}
+
+.container .qism2 .content5 .novosti .box69 .danash {
+    color: rgba(40, 60, 84, 0.50);
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.64px;
+}
+
+.container .qism2 .content5 .novosti .icon {
+    width: 26px;
+    height: 22px;
+    flex-shrink: 0;
+    fill: #163152;
+    position: absolute;
+    top: 604px;
+    right: 40px;
+    bottom: 59px;
+    left: 704px;
+}
+
+.container .qism2 .content6 {
+    position: relative;
+}
+
+.container .qism2 .content6 .novosti1 {
+    width: 370px;
+    height: 329px;
+    flex-shrink: 0;
+    background: #FDFDFF;
+    box-shadow: 0px 4px 30px 0px rgba(22, 49, 82, 0.12);
+    position: absolute;
+    top: 3360px;
+    right: 98px;
+    bottom: 2473px;
+    left: 985px;
+    border: 1px solid #00000000;
+}
+
+.container .qism2 .content6 .novosti1 .rasm8 {
+    width: 370px;
+    height: 130px;
+    flex-shrink: 0;
+    background-image: url("./rasm8.jpg");
+    background-size: 370px 130px;
+    position: absolute;
+    bottom: 199px;
+}
+
+.container .qism2 .content6 .novosti1 .box70 {
+    width: 237px;
+    height: 16px;
+    position: absolute;
+    top: 140px;
+    right: 113px;
+    bottom: 173px;
+    left: 20px;
+}
+
+.container .qism2 .content6 .novosti1 .box70 .danash {
+    color: rgba(40, 60, 84, 0.50);
+    font-family: Noto Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content6 .novosti1 .box71 {
+    width: 211px;
+    height: 22px;
+    position: absolute;
+    top: 168px;
+    right: 139px;
+    bottom: 139px;
+    left: 20px;
+}
+
+.container .qism2 .content6 .novosti1 .box71 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content6 .novosti1 .box72 {
+    display: flex;
+    width: 330px;
+    height: 54px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    position: absolute;
+    top: 198px;
+    right: 20px;
+    bottom: 77px;
+    left: 20px;
+}
+
+.container .qism2 .content6 .novosti1 .box72 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content6 .novosti1 .odam1 {
+    width: 37px;
+    height: 37px;
+    flex-shrink: 0;
+    border-radius: 37px;
+    background-image: url("./odam1.jpg");
+    background-size: 37px 37px;
+    position: absolute;
+    top: 272px;
+    right: 313px;
+    bottom: 20px;
+    left: 20px;
+}
+
+.container .qism2 .content6 .novosti1 .box73 {
+    width: 88px;
+    height: 16px;
+    position: absolute;
+    top: 272px;
+    right: 215px;
+    bottom: 41px;
+    left: 67px;
+}
+
+.container .qism2 .content6 .novosti1 .box73 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content6 .novosti1 .box74 {
+    width: 62px;
+    height: 16px;
+    position: absolute;
+    top: 293px;
+    right: 241px;
+    bottom: 20px;
+    left: 67px;
+}
+
+.container .qism2 .content6 .novosti1 .box74 .danash {
+    color: rgba(40, 60, 84, 0.50);
+    font-family: Noto Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content6 .novosti1 .icon {
+    width: 17px;
+    height: 14px;
+    flex-shrink: 0;
+    fill: #163152;
+    position: absolute;
+    top: 284px;
+    right: 20px;
+    bottom: 31px;
+    left: 333px;
+}
+
+.container .qism2 .content7 {
+    position: relative;
+}
+
+.container .qism2 .content7 .novosti2 {
+    width: 370px;
+    height: 329px;
+    flex-shrink: 0;
+    background: #FDFDFF;
+    box-shadow: 0px 4px 30px 0px rgba(22, 49, 82, 0.12);
+    position: absolute;
+    top: 3716px;
+    right: 98px;
+    bottom: 2117px;
+    left: 985px;
+}
+
+.container .qism2 .content7 .novosti2 .rasm9 {
+    width: 370px;
+    height: 130px;
+    flex-shrink: 0;
+    background-image: url("./rasm9.jpg");
+    background-size: 370px 130px;
+    position: absolute;
+    bottom: 199px;
+}
+
+.container .qism2 .content7 .novosti2 .box75 {
+    width: 241px;
+    height: 16px;
+    position: absolute;
+    top: 140px;
+    right: 109px;
+    bottom: 173px;
+    left: 20px;
+}
+
+.container .qism2 .content7 .novosti2 .box75 .danash {
+    color: rgba(40, 60, 84, 0.50);
+    font-family: Noto Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content7 .novosti2 .box76 {
+    width: 104px;
+    height: 22px;
+    position: absolute;
+    top: 168px;
+    right: 246px;
+    bottom: 139px;
+    left: 20px;
+}
+
+.container .qism2 .content7 .novosti2 .box76 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content7 .novosti2 .box77 {
+    display: flex;
+    width: 330px;
+    height: 54px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    position: absolute;
+    top: 198px;
+    right: 20px;
+    bottom: 77px;
+    left: 20px;
+}
+
+.container .qism2 .content7 .novosti2 .box77 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content7 .novosti2 .odam2 {
+    width: 37px;
+    height: 37px;
+    flex-shrink: 0;
+    border-radius: 37px;
+    background-image: url("./odam1.jpg");
+    background-size: 37px 37px;
+    position: absolute;
+    top: 272px;
+    right: 313px;
+    bottom: 20px;
+    left: 20px;
+}
+
+.container .qism2 .content7 .novosti2 .box78 {
+    width: 88px;
+    height: 16px;
+    position: absolute;
+    top: 272px;
+    right: 215px;
+    bottom: 41px;
+    left: 67px;
+}
+
+.container .qism2 .content7 .novosti2 .box78 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content7 .novosti2 .box79 {
+    width: 62px;
+    height: 16px;
+    position: absolute;
+    top: 293px;
+    right: 241px;
+    bottom: 20px;
+    left: 67px;
+}
+
+.container .qism2 .content7 .novosti2 .box79 .danash {
+    color: rgba(40, 60, 84, 0.50);
+    font-family: Noto Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content7 .novosti2 .icon {
+    width: 17px;
+    height: 14px;
+    flex-shrink: 0;
+    fill: #163152;
+    position: absolute;
+    top: 284px;
+    right: 20px;
+    bottom: 31px;
+    left: 333px;
+}
+
+.container .qism2 .content8 {
+    position: relative;
+}
+
+.container .qism2 .content8 .box80 {
+    width: 480px;
+    height: 36px;
+    position: absolute;
+    top: 4165px;
+    right: 788px;
+    bottom: 1961px;
+    left: 160px;
+}
+
+.container .qism2 .content8 .box80 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+    /* 150% */
+}
+
+.container .qism2 .content8 .box81 {
+    width: 370px;
+    height: 2px;
+    background: #00C6BD;
+    position: absolute;
+    top: 4216px;
+    right: 898px;
+    bottom: 1946px;
+    left: 160px;
+}
+
+.container .qism2 .content8 .box82 {
+    width: 202px;
+    height: 22px;
+    position: absolute;
+    top: 4266px;
+    right: 1046px;
+    bottom: 1874px;
+    left: 190px;
+}
+
+.container .qism2 .content8 .box82 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content8 .box83 {
+    width: 147px;
+    height: 22px;
+    position: absolute;
+    top: 4266px;
+    right: 816px;
+    bottom: 1874px;
+    left: 475px;
+}
+
+.container .qism2 .content8 .box83 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content8 .box84 {
+    width: 177px;
+    height: 22px;
+    position: absolute;
+    top: 4266px;
+    right: 556px;
+    bottom: 1874px;
+    left: 720px;
+}
+
+.container .qism2 .content8 .box84 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content8 .box85 {
+    width: 85px;
+    height: 22px;
+    position: absolute;
+    top: 4266px;
+    right: 373px;
+    bottom: 1874px;
+    left: 1000px;
+}
+
+.container .qism2 .content8 .box85 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content8 .box86 {
+    width: 154px;
+    height: 22px;
+    position: absolute;
+    top: 4266px;
+    right: 118px;
+    bottom: 1874px;
+    left: 1190px;
+}
+
+.container .qism2 .content8 .box86 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content9 {
+    position: relative;
+}
+
+.container .qism2 .content9 .box87 {
+    width: 1170px;
+    height: 56px;
+    flex-shrink: 0;
+    background: #F5F5F7;
+    position: absolute;
+    top: 4308px;
+    right: 98px;
+    bottom: 1798px;
+    left: 170px;
+}
+
+.container .qism2 .content9 .box87 .box88 {
+    width: 111px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 1039px;
+    bottom: 17px;
+    left: 20px;
+}
+
+.container .qism2 .content9 .box87 .box88 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content9 .box87 .box89 {
+    width: 103px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 762px;
+    bottom: 17px;
+    left: 305px;
+}
+
+.container .qism2 .content9 .box87 .box89 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content9 .box87 .box90 {
+    width: 192px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 443px;
+    bottom: 17px;
+    left: 550px;
+}
+
+.container .qism2 .content9 .box87 .box90 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content9 .box87 .box91 {
+    width: 39px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 321px;
+    bottom: 17px;
+    left: 830px;
+}
+
+.container .qism2 .content9 .box87 .box91 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content9 .box87 .box92 {
+    width: 119px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 55px;
+    bottom: 17px;
+    left: 1020px;
+}
+
+.container .qism2 .content9 .box87 .box92 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content10 {
+    position: relative;
+}
+
+.container .qism2 .content10 .box93 {
+    width: 171px;
+    height: 22px;
+    position: absolute;
+    top: 4381px;
+    right: 1077px;
+    bottom: 1759px;
+    left: 190px;
+}
+
+.container .qism2 .content10 .box93 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content10 .box94 {
+    width: 103px;
+    height: 22px;
+    position: absolute;
+    top: 4381px;
+    right: 860px;
+    bottom: 1759px;
+    left: 475px;
+}
+
+.container .qism2 .content10 .box94 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content10 .box95 {
+    width: 175px;
+    height: 22px;
+    position: absolute;
+    top: 4381px;
+    right: 558px;
+    bottom: 1759px;
+    left: 720px;
+}
+
+.container .qism2 .content10 .box95 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content10 .box96 {
+    width: 97px;
+    height: 22px;
+    position: absolute;
+    top: 4381px;
+    right: 361px;
+    bottom: 1759px;
+    left: 1000px;
+}
+
+.container .qism2 .content10 .box96 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content10 .box97 {
+    width: 55px;
+    height: 22px;
+    position: absolute;
+    top: 4381px;
+    right: 217px;
+    bottom: 1759px;
+    left: 1190px;
+}
+
+.container .qism2 .content10 .box97 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content11 {
+    position: relative;
+}
+
+.container .qism2 .content11 .box98 {
+    width: 1170px;
+    height: 56px;
+    flex-shrink: 0;
+    background: #F5F5F7;
+    position: absolute;
+    top: 4420px;
+    right: 98px;
+    bottom: 1686px;
+    left: 170px;
+    border: 1px solid #00000000;
+}
+
+.container .qism2 .content11 .box99 {
+    width: 153px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 997px;
+    bottom: 17px;
+    left: 20px;
+}
+
+.container .qism2 .content11 .box99 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content11 .box100 {
+    width: 103px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 762px;
+    bottom: 17px;
+    left: 305px;
+}
+
+.container .qism2 .content11 .box100 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content11 .box101 {
+    width: 183px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 452px;
+    bottom: 17px;
+    left: 550px;
+}
+
+.container .qism2 .content11 .box101 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content11 .box102 {
+    width: 103px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 257px;
+    bottom: 17px;
+    left: 830px;
+}
+
+.container .qism2 .content11 .box102 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content11 .box103 {
+    width: 86px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 88px;
+    bottom: 17px;
+    left: 1020px;
+}
+
+.container .qism2 .content11 .box103 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content12 {
+    position: relative;
+}
+
+.container .qism2 .content12 .box104 {
+    width: 110px;
+    height: 22px;
+    position: absolute;
+    top: 4493px;
+    right: 1138px;
+    bottom: 1647px;
+    left: 190px;
+}
+
+.container .qism2 .content12 .box104 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content12 .box105 {
+    width: 103px;
+    height: 22px;
+    position: absolute;
+    top: 4493px;
+    right: 860px;
+    bottom: 1647px;
+    left: 475px;
+}
+
+.container .qism2 .content12 .box105 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content12 .box106 {
+    width: 23px;
+    height: 22px;
+    position: absolute;
+    top: 4493px;
+    right: 710px;
+    bottom: 1647px;
+    left: 720px;
+}
+
+.container .qism2 .content12 .box106 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content12 .box107 {
+    width: 97px;
+    height: 22px;
+    position: absolute;
+    top: 4493px;
+    right: 361px;
+    bottom: 1647px;
+    left: 1000px;
+}
+
+.container .qism2 .content12 .box107 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content12 .box108 {
+    width: 147px;
+    height: 22px;
+    position: absolute;
+    top: 4493px;
+    right: 125px;
+    bottom: 1647px;
+    left: 1190px;
+}
+
+.container .qism2 .content12 .box108 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content13 {
+    position: relative;
+}
+
+.container .qism2 .content13 .box109 {
+    width: 1170px;
+    height: 56px;
+    flex-shrink: 0;
+    background: #F5F5F7;
+    position: absolute;
+    top: 4532px;
+    right: 98px;
+    bottom: 1574px;
+    left: 170px;
+}
+
+.container .qism2 .content13 .box110 {
+    width: 149px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 1001px;
+    bottom: 17px;
+    left: 20px;
+}
+
+.container .qism2 .content13 .box110 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content13 .box111 {
+    width: 103px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 762px;
+    bottom: 17px;
+    left: 305px;
+}
+
+.container .qism2 .content13 .box111 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content13 .box112 {
+    width: 53px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 582px;
+    bottom: 17px;
+    left: 550px;
+}
+
+.container .qism2 .content13 .box112 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content13 .box113 {
+    width: 30px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 330px;
+    bottom: 17px;
+    left: 830px;
+}
+
+.container .qism2 .content13 .box113 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content13 .box114 {
+    width: 97px;
+    height: 22px;
+    position: absolute;
+    top: 17px;
+    right: 77px;
+    bottom: 17px;
+    left: 1020px;
+}
+
+.container .qism2 .content13 .box114 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content14 {
+    position: relative;
+}
+
+.container .qism2 .content14 .box115 {
+    width: 344px;
+    height: 72px;
+    position: absolute;
+    top: 4708px;
+    right: 854px;
+    bottom: 1382px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box115 .danash {
+    color: #163152;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+    /* 150% */
+}
+
+.container .qism2 .content14 .box116 {
+    width: 270px;
+    height: 2px;
+    background: #00C6BD;
+    position: absolute;
+    top: 4795px;
+    right: 928px;
+    bottom: 1367px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box117 {
+    width: 318px;
+    height: 44px;
+    position: absolute;
+    top: 4815px;
+    right: 880px;
+    bottom: 1303px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box117 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    /* 137.5% */
+}
+
+.container .qism2 .content14 .box118 {
+    width: 36px;
+    height: 22px;
+    position: absolute;
+    top: 4889px;
+    right: 1162px;
+    bottom: 1251px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box118 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    /* 137.5% */
+}
+
+.container .qism2 .content14 .box119 {
+    width: 430px;
+    height: 44px;
+    flex-shrink: 0;
+    border: 1px solid #163152;
+    opacity: 0.15;
+    position: absolute;
+    top: 4921px;
+    right: 768px;
+    bottom: 1197px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box119 .danashbox {
+    width: 56px;
+    height: 22px;
+    position: absolute;
+    top: 11px;
+    right: 362px;
+    bottom: 11px;
+    left: 12px;
+}
+
+.container .qism2 .content14 .box119 .danashbox .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    /* 137.5% */
+    opacity: 0.4;
+}
+
+.container .qism2 .content14 .box120 {
+    width: 70px;
+    height: 22px;
+    position: absolute;
+    top: 4985px;
+    right: 1128px;
+    bottom: 1155px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box120 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    /* 137.5% */
+}
+
+.container .qism2 .content14 .box121 {
+    width: 430px;
+    height: 44px;
+    flex-shrink: 0;
+    border: 1px solid #163152;
+    opacity: 0.15;
+    position: absolute;
+    top: 5017px;
+    right: 768px;
+    bottom: 1101px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box121 .danashbox {
+    width: 127px;
+    height: 22px;
+    position: absolute;
+    top: 11px;
+    right: 291px;
+    bottom: 11px;
+    left: 12px;
+}
+
+.container .qism2 .content14 .box121 .danashbox .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    /* 137.5% */
+    opacity: 0.4;
+}
+
+.container .qism2 .content14 .box122 {
+    width: 49px;
+    height: 22px;
+    position: absolute;
+    top: 5081px;
+    right: 1149px;
+    bottom: 1059px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box122 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    /* 137.5% */
+}
+
+.container .qism2 .content14 .box123 {
+    width: 430px;
+    height: 44px;
+    flex-shrink: 0;
+    border: 1px solid #163152;
+    opacity: 0.15;
+    position: absolute;
+    top: 5113px;
+    right: 768px;
+    bottom: 1059px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box123 .danashbox {
+    width: 148px;
+    height: 22px;
+    position: absolute;
+    top: 11px;
+    right: 270px;
+    bottom: 11px;
+    left: 12px;
+}
+
+.container .qism2 .content14 .box123 .danashbox .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    /* 137.5% */
+    opacity: 0.4;
+}
+
+.container .qism2 .content14 .box124 {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    border: 1px solid #163152;
+    opacity: 0.15;
+    position: absolute;
+    top: 5187px;
+    right: 1178px;
+    bottom: 955px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box124 input {
+    width: 20px;
+    height: 20px;
+}
+
+.container .qism2 .content14 .box125 {
+    width: 309px;
+    height: 16px;
+    position: absolute;
+    top: 5189px;
+    right: 859px;
+    bottom: 957px;
+    left: 260px;
+}
+
+.container .qism2 .content14 .box125 .danash {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container .qism2 .content14 .box126 {
+    width: 430px;
+    height: 48px;
+    flex-shrink: 0;
+    background: #00C6BD;
+    position: absolute;
+    top: 5227px;
+    right: 768px;
+    bottom: 887px;
+    left: 230px;
+}
+
+.container .qism2 .content14 .box126 .danashbox {
+    width: 90px;
+    height: 22px;
+    position: absolute;
+    top: 13px;
+    right: 170px;
+    bottom: 13px;
+    left: 170px;
+}
+
+.container .qism2 .content14 .box126 .danashbox .danash {
+    color: #FDFDFF;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container .qism2 .content14 .rasm10 {
+    width: 600px;
+    height: 567px;
+    flex-shrink: 0;
+    background-image: url("./rasm10.jpg");
+    background-size: 600px 567px;
+    position: absolute;
+    top: 4708px;
+    right: 98px;
+    bottom: 887px;
+    left: 740px;
+}
+
+.container .qism2 .content15 {
+    position: relative;
+}
+
+.container .qism2 .content15 .karta {
+    width: 670px;
+    height: 351px;
+    flex-shrink: 0;
+    background-image: url("./karta.png");
+    background-size: 670px 351px;
+    position: absolute;
+    top: 5395px;
+    right: 598px;
+    bottom: 416px;
+    left: 170px;
+}
+
+.container .qism2 .content15 .karta .icon {
+    width: 40px;
+height: 48px;
+flex-shrink: 0;
+fill: #163152;
+position: absolute;
+top: 148px;
+right: 274px;
+bottom: 155px;
+left: 356px;
+}
+
+.container .qism2 .content15 .box127 {
+    width: 120px;
+    height: 34px;
+    position: absolute;
+    top: 5444px;
+    right: 377px;
+    bottom: 684px;
+    left: 920px;
+}
+
+.container .qism2 .content15 .box127 .danash {
+    color: #163152;
+text-align: right;
+font-family: Noto Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 34px; /* 141.667% */
+}
+
+.container .qism2 .content15 .box128 {
+    width: 100px;
+height: 2px;
+background: #00C6BD;
+position: absolute;
+top: 5493px;
+right: 396px;
+bottom: 669px;
+left: 930px;
+}
+
+.container .qism2 .content15 .box129 {
+    width: 53px;
+    height: 22px;
+    position: absolute;
+    top: 5513px;
+    right: 443px;
+    bottom: 627px;
+    left: 930px;
+}
+
+.container .qism2 .content15 .box129 .danash {
+    color: #163152;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 22px; /* 137.5% */
+}
+
+.container .qism2 .content15 .box130 {
+    width: 147px;
+    height: 22px;
+    position: absolute;
+    top: 5513px;
+    right: 287px;
+    bottom: 627px;
+    left: 985px;
+}
+
+.container .qism2 .content15 .box130 .danash {
+    color: #283C54;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 137.5% */
+}
+
+.container .qism2 .content15 .box131 {
+    width: 74px;
+    height: 22px;
+    position: absolute;
+    top: 5550px;
+    right: 422px;
+    bottom: 590px;
+    left: 930px;
+}
+
+.container .qism2 .content15 .box131 .danash {
+    color: #163152;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 22px; /* 137.5% */
+}
+
+.container .qism2 .content15 .box132 {
+    width: 120px;
+    height: 22px;
+    position: absolute;
+    top: 5550px;
+    right: 291px;
+    bottom: 590px;
+    left: 1007px;
+}
+
+.container .qism2 .content15 .box132 .danash {
+    color: #283C54;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 137.5% */
+}
+
+.container .qism2 .content15 .box133 {
+    width: 53px;
+    height: 22px;
+    position: absolute;
+    top: 5587px;
+    right: 443px;
+    bottom: 553px;
+    left: 930px;
+}
+
+.container .qism2 .content15 .box133 .danash {
+    color: #163152;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 22px; /* 137.5% */
+}
+
+.container .qism2 .content15 .box134 {
+    width: 188px;
+    height: 22px;
+    position: absolute;
+    top: 5587px;
+    right: 245px;
+    bottom: 553px;
+    left: 990px;
+}
+
+.container .qism2 .content15 .box134 .danash {
+    color: #283C54;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 137.5% */
+}
+
+.container .qism2 .content15 .box135 {
+    width: 200px;
+    height: 22px;
+    position: absolute;
+    top: 5624px;
+    right: 296px;
+    bottom: 516px;
+    left: 930px;
+}
+
+.container .qism2 .content15 .box135 .danash {
+    color: #163152;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 22px; /* 137.5% */
+}
+
+.container .qism2 .content15 .icon1 {
+    width: 40px;
+height: 40px;
+flex-shrink: 0;
+position: absolute;
+top: 5661px;
+right: 456px;
+bottom: 461px;
+left: 930px;
+}
+
+.container .qism2 .content15 .icon2 {
+    width: 40px;
+height: 40px;
+flex-shrink: 0;
+position: absolute;
+top: 5661px;
+right: 401px;
+bottom: 461px;
+left: 990px;
+}
+
+.container .qism2 .content15 .icon3 {
+    width: 40px;
+height: 40px;
+flex-shrink: 0;
+position: absolute;
+top: 5661px;
+right: 346px;
+bottom: 461px;
+left: 1050px;
+}
+
+.container .qism2 .content16 {
+    position: relative;
+}
+
+.container .qism2 .content16 .chiziq {
+    width: 100%;
+height: 1px;
+background: rgba(22, 49, 82, 0.10);
+position: absolute;
+top: 5866px;
+bottom: 296px;
+}
+
+.container .qism2 .content16 .logo {
+    width: 100px;
+height: 106px;
+flex-shrink: 0;
+fill: #163152;
+position: absolute;
+top: 5926px;
+right: 1168px;
+bottom: 130px;
+left: 170px;
+}
+
+.container .qism2 .content16 .box136 {
+    width: 160px;
+    height: 36px;
+    position: absolute;
+    top: 6062px;
+    right: 1086px;
+    bottom: 64px;
+    left: 170px;
+}
+
+.container .qism2 .content16 .box136 .danash {
+    color: #283C54;
+font-family: Noto Sans;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.container .qism2 .content16 .box137 {
+    width: 87px;
+    height: 18px;
+    position: absolute;
+    top: 5926px;
+    right: 881px;
+    bottom: 218px;
+    left: 460px;
+}
+
+.container .qism2 .content16 .box137 .danash {
+    color: #163152;
+font-family: Noto Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 18px; /* 128.571% */
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.container .qism2 .content16 .kalon {
+    color: #283C54;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.container .qism2 .content16 .kalon .box139 {
+    width: 61px;
+    height: 143px;
+    position: absolute;
+    top: 5959px;
+    right: 907px;
+    bottom: 60px;
+    left: 460px;
+}
+
+.container .qism2 .content16 .kalon .box140 {
+    position: absolute;
+    top: 5990px;
+    bottom: 60px;
+    right: 907px;
+    left: 460px;
+}
+
+.container .qism2 .content16 .kalon .box141 {
+    position: absolute;
+    top: 6020px;
+    bottom: 60px;
+    right: 907px;
+    left: 460px;
+}
+
+.container .qism2 .content16 .kalon .box142 {
+    position: absolute;
+    top: 6045px;
+    bottom: 60px;
+    right: 907px;
+    left: 460px;
+}
+
+.container .qism2 .content16 .kalon .box143 {
+    position: absolute;
+    top: 6070px;
+    bottom: 60px;
+    right: 907px;
+    left: 460px;
+}
+
+.container .qism2 .content16 .box144 {
+    width: 78px;
+    height: 18px;
+    position: absolute;
+    top: 5926px;
+    right: 669px;
+    bottom: 218px;
+    left: 700px;
+}
+
+.container .qism2 .content16 .box144 .danash {
+    color: #163152;
+font-family: Noto Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 18px; /* 128.571% */
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.container .qism2 .content16 .kalon1 {
+    color: #283C54;
+font-family: Noto Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.container .qism2 .content16 .kalon1 .box145 {
+    position: absolute;
+    top: 5959px;
+    right: 666px;
+    bottom: 60px;
+    left: 700px;
+}
+
+.container .qism2 .content16 .kalon1 .box146 {
+    position: absolute;
+    top: 5990px;
+    right: 666px;
+    bottom: 60px;
+    left: 700px;
+}
+
+.container .qism2 .content16 .kalon1 .box147 {
+    position: absolute;
+    top: 6020px;
+    right: 666px;
+    bottom: 60px;
+    left: 700px;
+}
+
+.container .qism2 .content16 .kalon1 .box148 {
+    position: absolute;
+    top: 6045px;
+    right: 666px;
+    bottom: 60px;
+    left: 700px;
+}
+
+.container .qism2 .content16 .kalon1 .box149 {
+    position: absolute;
+    top: 6070px;
+    right: 666px;
+    bottom: 60px;
+    left: 700px;
+}
+
+.container .qism2 .content16 .box150 {
+    width: 59px;
+    height: 18px;
+    position: absolute;
+    top: 5926px;
+    right: 466px;
+    bottom: 218px;
+    left: 930px;
+}
+
+.container .qism2 .content16 .box150 .danash {
+    color: #163152;
+font-family: Noto Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 18px; /* 128.571% */
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.container .qism2 .content16 .kalon2 {
+    color: #283C54;
+font-family: Noto Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.container .qism2 .content16 .kalon2 .box152 {
+    width: 80px;   
+    position: absolute;
+    top: 5959px;
+    right: 466px;
+    bottom: 218px;
+    left: 930px;
+}
+
+.container .qism2 .content16 .kalon2 .box153 {
+    width: 100px;   
+    position: absolute;
+    top: 5990px;
+    right: 466px;
+    bottom: 218px;
+    left: 930px;
+}
+
+.container .qism2 .content16 .kalon2 .box154 {
+    width: 100px;   
+    position: absolute;
+    top: 6020px;
+    right: 466px;
+    bottom: 218px;
+    left: 930px;
+}
+
+.container .qism2 .content16 .kalon2 .box155 {
+    width: 100px;   
+    position: absolute;
+    top: 6045px;
+    right: 466px;
+    bottom: 218px;
+    left: 930px;
+}
+
+.container .qism2 .content16 .kalon2 .box156 {
+    position: absolute;
+    top: 6070px;
+    right: 466px;
+    bottom: 218px;
+    left: 930px;
+}
+
+.container .qism2 .content16 .box151 {
+    width: 55px;
+    height: 18px;
+    position: absolute;
+    top: 5926px;
+    right: 217px;
+    bottom: 218px;
+    left: 1150px;
+}
+
+.container .qism2 .content16 .box151 .danash {
+    color: #163152;
+font-family: Noto Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 18px; /* 128.571% */
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.container .qism2 .content16 .kalon3 {
+    color: #283C54;
+font-family: Noto Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.container .qism2 .content16 .kalon3 .box157 {
+    width: 140px;
+    position: absolute;
+    top: 5959px;
+    right: 99px;
+    bottom: 60px;
+    left: 1150px;
+}
+
+.container .qism2 .content16 .kalon3 .box158 {
+    width: 150px;
+    position: absolute;
+    top: 5990px;
+    right: 99px;
+    bottom: 60px;
+    left: 1150px;
+}
+
+.container .qism2 .content16 .kalon3 .box159 {
+    position: absolute;
+    top: 6020px;
+    right: 99px;
+    bottom: 60px;
+    left: 1150px;
+    width: 200px;
+}
+
+.container .qism2 .content16 .kalon3 .box160 {
+    position: absolute;
+    top: 6045px;
+    right: 99px;
+    bottom: 60px;
+    left: 1150px;
+    width: 300px;
+}
+
+.container .qism2 .content16 .kalon3 .box161 {
+    position: absolute;
+    top: 6070px;
+    right: 99px;
+    bottom: 60px;
+    left: 1150px;
+}
+
+.container .navbar i {
+    display: none;
+}
